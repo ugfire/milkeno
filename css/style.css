@@ -506,3 +506,15 @@
   letter-spacing: 1px;
   box-shadow: none;
 }
+
+.text-primary {
+  color: #0534c3 !important;
+}
+.text-secondary {
+  color: #8fd6ff !important;
+}
+
+.contactlink {
+  color: #c8ebff !important;
+  text-decoration: none;
+}
