@@ -6,7 +6,7 @@
   --dark: #00207f;
 }
 .footer-bg {
-  background-color: #0534c3;
+  background-color: #242424;
   color: #ffffff !important;
 }
 
@@ -517,4 +517,10 @@
 .contactlink {
   color: #c8ebff !important;
   text-decoration: none;
+}
+.bg-primary {
+  background-color: #0534c3 !important;
+}
+.bg-secondary {
+  background-color: #c8ebff !important;
 }
